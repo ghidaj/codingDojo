@@ -1,0 +1,3 @@
+Message: your wallet, Coding Dojo
+Address:12NfU22VuukycQFp8aiXDWppAwtPUj1XFB
+Signture: IGEP3Dkxi3WfODN+MHon1S8WSTmH/gc0JgFNSqeLx7oqFMngz0EYlVDuaztKusu0aXpcGndsay9OJxH775gq4NU=
